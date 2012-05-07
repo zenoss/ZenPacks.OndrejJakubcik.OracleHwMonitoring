@@ -4,7 +4,7 @@
 NAME = "ZenPacks.OndrejJakubcik.OracleHwMonitoring"
 VERSION = "1.1"
 AUTHOR = "Ondrej Jakubcik"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.OndrejJakubcik']
 PACKAGES = ['ZenPacks', 'ZenPacks.OndrejJakubcik', 'ZenPacks.OndrejJakubcik.OracleHwMonitoring']
 INSTALL_REQUIRES = []
